@@ -1,0 +1,4 @@
+route_id,source,destination,route_name,distance_km,travel_time_min,traffic_level,road_condition,vehicle_count,average_speed_kmh,traffic_density
+R1,Kochi,Thrissur,Kochi - Aluva - Angamaly - Chalakudy - Thrissur,78,95,LOW,GOOD,420,52,0.32
+R2,Kochi,Thrissur,Kochi - Aluva - Angamaly - Chalakudy - Thrissur (Scenic),82,115,MEDIUM,GOOD,680,43,0.51
+R3,Kochi,Thrissur,Kochi - Perumbavoor - Mala - Kodungallur - Thrissur,86,125,HIGH,POOR,980,36,0.74

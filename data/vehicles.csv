@@ -1,0 +1,6 @@
+vehicle_type,fuel_type,fuel_efficiency_km_per_litre,co2_kg_per_litre
+Petrol Car,Petrol,15,2.31
+Diesel Car,Diesel,20,2.68
+Electric Car,Electric,6,0.00
+Hybrid Car,Petrol,22,2.31
+Bike,Petrol,40,2.31
